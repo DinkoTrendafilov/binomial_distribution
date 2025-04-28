@@ -28,7 +28,7 @@ Usage
     Run the script:
     bash
 
-python binomial_distribution.py  
+python binomial_distribution.ipynb
 
 Enter your probability (p%) and trial count (n).
 
